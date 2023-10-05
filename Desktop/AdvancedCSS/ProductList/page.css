@@ -1,0 +1,108 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000000;
+    color: white;
+}
+
+.amazon {
+    width: 100px;
+    height: 80px;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    white-space: nowrap;
+}
+
+nav {
+    background-color: #232f3e;
+    color: white;
+    padding: 10px;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    border-style: 3px black solid;
+    padding: 50px;
+} 
+
+
+td {
+    width: 300px;
+    height: 400px;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px lightgrey;
+}
+tr {
+    display: inline-flex;
+    padding:10px;
+}
+
+div  {
+    padding: 5px;
+    color: black;
+    text-decoration: none;
+}
+
+table div {
+    text-decoration: none;
+}
+
+.Bronzer {
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+
+.Milk {
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+
+.Mascara {
+    width: 150px;
+    height: 250px;
+    padding: 25px;
+}
+
+.Concealer {
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+
+.Lipstick {
+    width: 150px;
+    height: 250px;
+    padding: 25px;
+}
+
+.Puff {
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+
+.Blush {
+    width: 150px;
+    height: 250px;
+    padding: 25px;
+}
+.Powder {
+    width: 250px;
+    height: 250px;
+    padding: 25px;
+}
+
